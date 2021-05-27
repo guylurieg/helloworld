@@ -8,6 +8,9 @@
   <artifactId>sample_project</artifactId>
   <version>1.1</version>
   <packaging>jar</packaging>
+  <build>
+     <finalName>WhatEverYouLikey</finalName>
+  </build>
 
   <name>Hello World</name>
   <description>The most basic of Java programs.</description>
