@@ -31,6 +31,7 @@
         <configuration>
           <source>${jdk.version}</source>
           <target>${jdk.version}</target>
+          <finalName>sample_project</finalName>
         </configuration>
       </plugin>
     </plugins>
